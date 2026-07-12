@@ -304,3 +304,4 @@ if (!currenturl.includes("g=")) {
 a
 app
 "application"
+top-level "app"
